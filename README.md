@@ -40,7 +40,8 @@ Click the Generate button
 View your QR code instantly
 Optionally, click Download to save it as an image
 
-💡 Applications
+💡 Applications:
+
 Here are some practical use-cases where Smart QR Creator can be helpful:
 
 🔗 Sharing website or social media links quickly
